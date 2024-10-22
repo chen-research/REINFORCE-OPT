@@ -1,0 +1,41 @@
+Apache License 2.0
+
+Copyright 2024 Chen Xu
+Original Code:
+The following files are original works and not part of the TF-Agents package:
+  - Figure1 and 2a.py
+  - Figure3 and 2b.py
+  - Figure4 and Table2 (1st,3rd,5th line).py
+  - Table2 (2nd, 4th, 6th  line).py
+  - Table 2 (7th and 8th line).py
+  - Table3 (1st, 3rd, 5th Line).py
+  - Table3 (2nd, 4th, 6th Line).py
+  - Table3 (7th, 8th Line).py
+  - Figure4 and Table2 (1st,3rd,5th line).py
+  - Table2 (2nd, 4th, 6th  line).py
+  - Table 2 (7th and 8th line).py
+  - Figure5-6.py
+  - SimulationII-Fig7-8.py
+  - Figure9-10.py
+  - Figure11-12Table5.py
+These files were written by Chen Xu (xuchen@smbu.edu.cn) 
+
+Copyright 2020 The TF-Agents Authors
+Modified TF-Agents Code:
+The following files are modifications to the original TF-Agents package, released under the Apache License 2.0 (Apache-2.0):
+  - custom_normal_projection_network.py
+  - custom_actor_distribution_network.py
+These changes were made by Chen Xu (xuchen@smbu.edu.cn), and are distributed under the same terms as the original TF-Agents code.
+
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+either express or implied. See the License for the specific language
+governing permissions and limitations under the License.
